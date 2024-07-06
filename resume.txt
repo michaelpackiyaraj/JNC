@@ -1,0 +1,51 @@
+Resume
+Michael Packiyaraj
+Coder, Architect and Instructor
+Website: www.google.com
+Phone: 8095339091
+Twitter: @mic_sri
+
+Hi! I'am Michael Packiyaraj and I'm happy to have you as a student in my
+web technologies Courses. Reach the Unreachable!
+
+Services:
+Web Development
+Workshop
+Training
+
+Skills:
+HTML
+Markup your content with semantic HTML.
+CSS
+Layout your content visually for multiple devices.
+JavaScript
+Make your content more interactive, and build web applications.
+
+Work History:
+Junior Software Developer
+IABC
+3 years
+
+Software Developer
+XYZ
+2 years
+
+Sr. Web Developer
+IJK
+5 years
+
+Technical Architect
+Publicis Sapient
+8 years
+
+Portfolio
+
+Testimonials
+I love M.J Ashely Academy Courses
+It helped me get a job.
+
+Mailing Address
+111 Main St.
+T.C Palya, KA
+
+
